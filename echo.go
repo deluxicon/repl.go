@@ -1,3 +1,8 @@
+/* 
+** Echo REPL
+** © 2014
+*/
+
 package main
 
 import (
