@@ -1,6 +1,5 @@
 /* 
-** Echo REPL
-** © 2014
+** Echo REPL © 2014
 */
 
 package main
